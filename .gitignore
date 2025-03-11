@@ -108,7 +108,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 .venv*
 env/
@@ -196,3 +195,4 @@ delete_genai_repos.sh
 cleanup_e2e_projects.sh
 .cloudbuild/terraform/backend.tf
 .cloudbuild/terraform/vars/env.tfvars
+config.bat
